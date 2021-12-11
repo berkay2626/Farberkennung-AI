@@ -1,0 +1,3 @@
+python color_detection.py --i colorpic.jpg
+
+Zum beenden der Anwendung 'Esc' drücken
